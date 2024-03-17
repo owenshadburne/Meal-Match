@@ -1,6 +1,6 @@
 # Meal Match
 
-A Tinder-like approach to finding a restaurant in your area with your friends. Implemented using Firebase Authentication and Real-Time Database in addition to the Google Maps API. 
+A Tinder-like web app utilizing Firebase Authentication, Firebase Database, and 3 Google Maps APIs providing real-time connections with peers to find a restaurant in the area.
 > Created my freshman year of college as a personal project. Hosted at [CubeTures.github.io](https://cubetures.github.io/Pages/MealMatch/home.html).
 
 <img src="https://github.com/owenshadburne/Meal-Match/assets/124115160/cc5916b6-ffa5-4404-9294-b5afafcaebfb" width="300px">
